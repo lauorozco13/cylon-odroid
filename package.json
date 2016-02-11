@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/odroidjs/cylon-odroid/issues"
   },
-  "homepage": "https://github.com/odroidjs/cylon-odroid#readme"
+  "homepage": "https://github.com/odroidjs/cylon-odroid#readme",
+  "optionalDependencies": {
+    "i2c-bus":      "^1.2.1"
+  }
 }
