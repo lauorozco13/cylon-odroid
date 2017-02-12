@@ -1,0 +1,29 @@
+{
+  "name": "cylon-odroid",
+  "version": "0.0.0",
+  "description": "Cylon Adaptor for Odroid single-board computers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odroidjs/cylon-odroid.git"
+  },
+  "keywords": [
+    "odroid",
+    "odroidjs",
+    "cylon",
+    "cylonjs",
+    "robot",
+    "robotics",
+    "iot",
+    "gpio"
+  ],
+  "author": "OdroidJS",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/odroidjs/cylon-odroid/issues"
+  },
+  "homepage": "https://github.com/odroidjs/cylon-odroid#readme"
+}
