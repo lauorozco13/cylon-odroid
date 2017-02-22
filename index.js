@@ -2,7 +2,7 @@
 
 var OdroidAdaptors = {
   "odroid" : require('./lib/odroid'),
-  "xu4-12pin" : require('./lib/adaptors/XU4-12PIN/xu4_12pin.js')
+  "xu4-12pin" : require('./lib/adaptors/XU4-12PIN/xu4_12pin')
 }
 
 var OdroidDrivers = {
