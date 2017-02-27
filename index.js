@@ -17,7 +17,7 @@ module.exports = {
   drivers: Object.keys(OdroidDrivers),
 
   // Modules intended to be used with yours, e.g. ["cylon-gpio"]
-  dependencies: ["cylon-gpio"],
+  dependencies: ["cylon-gpio", "cylon-i2c"],
 
   adaptor: function(opts) {
     return new OdroidAdaptors[opts.adaptor](opts);
