@@ -6,7 +6,7 @@ var OdroidAdaptors = {
 }
 
 var OdroidDrivers = {
-  
+  "serial" : require('./lib/drivers/serial')
 }
 
 module.exports = {
