@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/odroidjs/cylon-odroid#readme",
   "optionalDependencies": {
-    "i2c-bus":      "^1.2.1"
+    "i2c-bus":      "^1.2.1",
+    "serialport":   "^4.0.7"
   }
 }
