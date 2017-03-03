@@ -5,8 +5,8 @@ Cylon.js (http://cylonjs.com) is a JavaScript framework for robotics, physical c
 This module provides an adaptor for ODROID Linux computers (http://www.hardkernel.com/main/main.php).
 
 ## Supported Odroid Boards
-- ##### Odroid XU4
-- ##### Odroid XU3
+- Odroid XU4
+- Odroid XU3
 
 More devices to be added shortly...
 
@@ -157,14 +157,12 @@ You can checkout the serialport repo [here](https://github.com/EmergingTechnolog
 
 ## Contributing
 
-For our contribution guidelines, please go to [https://github.com/hybridgroup/cylon/blob/master/CONTRIBUTING.md
-](https://github.com/odroidjs/cylon-odroid/blob/master/CONTRIBUTING.md
+For our contribution guidelines, please [visit this document](https://github.com/odroidjs/cylon-odroid/blob/master/CONTRIBUTING.md
 ).
 
 ## Release History
 
-For the release history, please go to [https://github.com/hybridgroup/cylon-chip/blob/master/RELEASES.md
-](https://github.com/odroidjs/cylon-odroid/blob/master/RELEASES.md
+For the release history, please go to [visit this document](https://github.com/odroidjs/cylon-odroid/blob/master/RELEASES.md
 ).
 
 ## License
