@@ -60,7 +60,7 @@ Cylon.robot({
 
   devices: {
     led: { driver: "led", pin: 27 },
-    button: { driver: "button", pin:  26, type: "closed"}
+    button: { driver: "button", pin:  26 }
   },
 
   work: function(my) {
@@ -86,7 +86,7 @@ Cylon.robot({
   devices: {
     led: { driver: "led", pin: 27 },
     //Set the button to use pin 6 on the 12 pin header
-    button: { driver: "button", pin:  6, type: "closed", connection: 'con11' }
+    button: { driver: "button", pin:  6, connection: 'con11' }
   },
 
   work: function(my) {
@@ -151,19 +151,6 @@ Other events available
 - disconnect
 
 You can checkout the serialport repo [here](https://github.com/EmergingTechnologyAdvisors/node-serialport)  or [here](https://www.npmjs.com/package/serialport)
-
-
-
-
-## Contributing
-
-For our contribution guidelines, please [visit this document](https://github.com/odroidjs/cylon-odroid/blob/master/CONTRIBUTING.md
-).
-
-## Release History
-
-For the release history, please go to [visit this document](https://github.com/odroidjs/cylon-odroid/blob/master/RELEASES.md
-).
 
 ## License
 Copyright (c) 2017 ODROIDJS. Licensed under the Apache 2.0 license.
